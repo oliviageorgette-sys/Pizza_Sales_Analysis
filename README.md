@@ -22,7 +22,8 @@ Through interactive dashboards, this analysis provides clear insights into what 
 - Source: Pizza Sales Dataset (2015)
 - Total Records: 21,350 Orders
 - Key Fields:
-* Orders: order_id, order_date, quantity, unit_price
+  
+1.  Orders: order_id, order_date, quantity, unit_price
 * Pizza Info: category, size, name
 * Time-based fields: day of week, month, hour
 * Derived fields: revenue, order type (single vs multi)
