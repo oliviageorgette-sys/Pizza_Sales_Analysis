@@ -1,7 +1,7 @@
 # Pizza_Sales_Analysis
 Comprehensive Pizza Sales Analytics using Power BI
 
-##Overview
+## Overview
 ---
 
 This project delivers an end-to-end analysis of a pizza restaurant’s 2015 sales performance using Power BI.
