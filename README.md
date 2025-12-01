@@ -121,7 +121,7 @@ If you have any suggestions, improvements, or questions about this project, feel
 I'm continuously learning and open to all constructive feedback to help improve my work.
 
 ## Connect With Me
-If you'd like to connect or discuss data analytics, Power Bi, or future projects:
+If you'd like to connect or discuss data analytics, Power BI, or future projects:
 - LinkedIn: https://www.linkedin.com/in/olivia-georgette-aggrey
 - Email: olivia.georgette@gmail.com
 - GitHub: https://github.com/oliviageorgette-sys
