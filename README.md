@@ -22,11 +22,10 @@ Through interactive dashboards, this analysis provides clear insights into what 
 - Source: Pizza Sales Dataset (2015)
 - Total Records: 21,350 Orders
 - Key Fields:
-  
 1.  Orders: order_id, order_date, quantity, unit_price
-* Pizza Info: category, size, name
-* Time-based fields: day of week, month, hour
-* Derived fields: revenue, order type (single vs multi)
+2. Pizza Info: category, size, name
+3. Time-based fields: day of week, month, hour
+4. Derived fields: revenue, order type (single vs multi)
 
 ## Data Preparation & Cleaning
 
@@ -35,18 +34,18 @@ The dataset was cleaned and transformed in Power Query, ensuring high data quali
 - Standardized date formats and created time intelligence fields (month, hour, weekday).
 - Created calculated columns such as Order Type (Single vs Multi).
 - Built DAX measures for:
-** Total Revenue
-* Total Orders
-* Average Daily Revenue
-* Average Order Value (AOV)
-* Pizzas per Order
-* Multi-Pizza Order Percentage
-* Category & size distributions
+1. Total Revenue
+2. Total Orders
+3. Average Daily Revenue
+4. Average Order Value (AOV)
+5. Pizzas per Order
+6. Multi-Pizza Order Percentage
+7. Category & size distributions
 
 After cleaning, the dataset was modeled and used to build four dashboard pages
 
 ## Insights
-## Page 1 – Pizza Sales Performance Overview
+### Page 1 – Pizza Sales Performance Overview
 ![Page 1](https://github.com/user-attachments/assets/c9a797c0-7e55-47d1-92bb-b90967e030df)
 
 The dashboard opens with a high-level view of the restaurant’s performance. In 2015, the business generated $817K in total revenue from 21,350 orders, selling 49,574 pizzas across all categories and sizes. The restaurant averaged $2,284 in daily revenue and almost 60 orders per day—a strong indicator of consistent customer demand.
@@ -61,7 +60,7 @@ Finally, pizza size distribution shows that Large (L) pizzas dominate customer c
 
 Overall, Page 1 provides a clear snapshot of business performance—strong sales volume, predictable demand patterns, and distinct customer product preferences.
 
-## Page 2 
+### Page 2 
 ![Page 2](https://github.com/user-attachments/assets/5c9fd1e3-815f-4f96-9410-bb6cf07f0855)
 
 Page 2 dives deeper into how customers behave when ordering pizza. On average, customers purchase 2.32 pizzas per order, and 62% of all orders are multi-pizza orders—showing that customers often buy for groups, families, or events. The Average Unit Price sits at $16.49, while the Average Order Value (AOV) stands at $38.31, confirming that multi-item ordering significantly boosts revenue.
@@ -76,7 +75,7 @@ Finally, the 100% stacked chart provides insight into pizza size preferences wit
 
 Page 2 provides a deep understanding of how customers shop—when they buy, what they choose, and how much they typically spend—helping shape future marketing, pricing, and operational strategies.
 
-## Page 3 – Single vs Multi-Order Insights
+### Page 3 – Single vs Multi-Order Insights
 ![Page 3](https://github.com/user-attachments/assets/20e921df-4009-45aa-9cf2-a5754d5a9c37)
 
 This page focuses specifically on comparing single-pizza and multi-pizza orders. Out of all orders, 13,239 were multi-pizza orders, while 8,111 were single-pizza orders. This confirms that multi-order customers form the majority and are the primary drivers of business revenue.
