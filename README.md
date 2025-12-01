@@ -115,3 +115,14 @@ This final page reinforces earlier insights by making revenue impact clear and r
 
 ## Conclusion 
 This analysis provides a complete view of the restaurant’s sales ecosystem — from what customers prefer, to how they behave, to which products drive profitability. With actionable insights and clear patterns, the restaurant is better positioned to make data-driven decisions that improve sales, enhance customer experience, and strengthen operational efficiency.
+
+## Feedback
+If you have any suggestions, improvements, or questions about this project, feel free to share them.
+I'm continuously learning and open to all constructive feedback to help improve my work.
+
+## Connect With Me
+If you'd like to connect or discuss data analytics, Power Bi, or future projects:
+- LinkedIn:
+- Email: olivia.georgette@gmail.com
+- GitHub: 
+
