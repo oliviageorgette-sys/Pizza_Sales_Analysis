@@ -87,3 +87,31 @@ Order volume by hour further highlights behavior differences. Multi-order volume
 Category preferences also reveal interesting patterns. For every category (Classic, Supreme, Veggie, Chicken), multi-pizza orders dominate with around 83% share, leaving single orders with about 16%. This consistency shows that category preference is not tied to order type—customers across all categories prefer ordering more than one pizza at a time.
 
 Overall, Page 3 makes it clear that multi-pizza orders are the backbone of the business, contributing heavily to revenue and overall sales volume.
+
+## Page 4 – Revenue Insights
+![Page 4](https://github.com/user-attachments/assets/d211b2d2-c1dc-4b28-8147-e4a8e4ad32b9)
+
+The final dashboard page zooms into revenue performance, breaking it down by order type and individual pizza products. Monthly revenue trends show that multi-pizza orders generate significantly higher revenue every month. Single-pizza revenue remains stable but low, while multi-pizza revenue shows expected seasonal fluctuations.
+
+The ranking visuals provide further clarity. The Top 10 Revenue-Generating Pizzas list highlights familiar favorites such as The Thai Chicken Pizza, The Barbecue Chicken Pizza, and The California Chicken Pizza—all strong performers with consistent demand.
+
+On the other hand, the Worst 5 Revenue-Generating Pizzas show items with very low sales volume and revenue contributions. These include pizzas like The Spinach Pesto Pizza and The Mediterranean Pizza, which continue to underperform across all metrics.
+
+This final page reinforces earlier insights by making revenue impact clear and ranking products by financial contribution.
+
+## Recommendations
+
+- Strengthen marketing for high-performing pizzas, especially Classic Deluxe, Thai Chicken, and Barbecue Chicken.
+
+- Improve or reconsider low-performing pizzas such as Spinach Pesto and Mediterranean options.
+
+- Launch targeted promotions during non-peak hours and slower months to boost demand.
+
+- Expand meal bundles aligned with the high rate of multi-pizza orders.
+
+- Optimize inventory and staffing for peak periods—12 PM and 5 PM, plus Fridays and Saturdays.
+
+- Reduce focus on XL and XXL pizzas, as demand is consistently low.
+
+## Conclusion 
+This analysis provides a complete view of the restaurant’s sales ecosystem — from what customers prefer, to how they behave, to which products drive profitability. With actionable insights and clear patterns, the restaurant is better positioned to make data-driven decisions that improve sales, enhance customer experience, and strengthen operational efficiency.
