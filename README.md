@@ -34,7 +34,7 @@ The dataset was cleaned and transformed in Power Query, ensuring high data quali
 - Standardized date formats and created time intelligence fields (month, hour, weekday).
 - Created calculated columns such as Order Type (Single vs Multi).
 - Built DAX measures for:
-* Total Revenue
+** Total Revenue
 * Total Orders
 * Average Daily Revenue
 * Average Order Value (AOV)
