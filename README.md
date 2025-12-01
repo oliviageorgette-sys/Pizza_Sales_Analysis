@@ -1,37 +1,10 @@
 # Pizza_Sales_Analysis
 Comprehensive Pizza Sales Analytics using Power BI
-# Data Sourcing
+
+##Overview
 ---
 
-The dataset was obtained from **Kaggle**.  
-You can download it from the link below:
+This project delivers an end-to-end analysis of a pizza restaurant’s 2015 sales performance using Power BI.
+The goal was to uncover sales trends, customer behavior patterns, order dynamics, and revenue performance across multiple dimensions such as pizza categories, sizes, order types, and time periods.
 
-👉 [Dataset Link](your-link-here)
-
-# Data Preprocessing and Cleaning
----
-
-After downloading the dataset to my local computer, I used **Power BI** as the primary tool for data loading, cleaning, and transformation.
-
-## Data Loading and Initial Transformation
-
-- Imported the dataset as a CSV file using the **Get Data** command.
-- Opened **Power Query Editor** for cleaning and transformation.
-
-## Data Quality Assessment
-
-- Checked for missing values, duplicates, and incorrect formatting.
-- Standardized date, text, and categorical fields.
-- Ensured proper data types were assigned.
-
-## Data Formatting and Integration
-
-- Reformatted all columns (dates, text, prices, quantities).
-- Ensured column consistency and accuracy.
-- Loaded the cleaned dataset into Power BI for modeling.
-
-## KPI Calculation
-
-- Created calculated measures using **DAX**.
-- Built KPIs for Total Revenue, Total Orders, Average Order Value, etc.
-- Validated all cleaning steps before proceeding to visualization.
+Through interactive dashboards, this analysis provides clear insights into what drives the restaurant’s performance — revealing best-selling products, customer ordering habits, and opportunities for revenue growth.
