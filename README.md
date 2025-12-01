@@ -22,10 +22,10 @@ Through interactive dashboards, this analysis provides clear insights into what 
 - Source: Pizza Sales Dataset (2015)
 - Total Records: 21,350 Orders
 - Key Fields:
-Orders: order_id, order_date, quantity, unit_price
-Pizza Info: category, size, name
-Time-based fields: day of week, month, hour
-Derived fields: revenue, order type (single vs multi)
+* Orders: order_id, order_date, quantity, unit_price
+* Pizza Info: category, size, name
+* Time-based fields: day of week, month, hour
+* Derived fields: revenue, order type (single vs multi)
 
 ## Data Preparation & Cleaning
 
@@ -34,12 +34,12 @@ The dataset was cleaned and transformed in Power Query, ensuring high data quali
 - Standardized date formats and created time intelligence fields (month, hour, weekday).
 - Created calculated columns such as Order Type (Single vs Multi).
 - Built DAX measures for:
-Total Revenue
-Total Orders
-Average Daily Revenue
-Average Order Value (AOV)
-Pizzas per Order
-Multi-Pizza Order Percentage
-Category & size distributions
+* Total Revenue
+* Total Orders
+* Average Daily Revenue
+* Average Order Value (AOV)
+* Pizzas per Order
+* Multi-Pizza Order Percentage
+* Category & size distributions
 
 After cleaning, the dataset was modeled and used to build four dashboard pages
