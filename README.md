@@ -122,7 +122,7 @@ I'm continuously learning and open to all constructive feedback to help improve 
 
 ## Connect With Me
 If you'd like to connect or discuss data analytics, Power Bi, or future projects:
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/olivia-georgette-aggrey
 - Email: olivia.georgette@gmail.com
-- GitHub: 
+- GitHub: oliviageorgette-sys
 
